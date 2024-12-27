@@ -1,0 +1,25 @@
+@font-face {
+    font-family: gabriola;
+    src: url(../fonts/Gabriola.ttf);
+  }
+  
+  
+  
+  .main-title {
+    width: 100px;
+    min-width: 1170px;
+    margin: 0 auto;
+    text-align: center;
+    color: #640f62;
+    font-size: 50px;
+    font-family: gabriola;
+    font-weight: 300;
+    padding: 0;
+    opacity: 0;
+    transition: 1s linear;
+  }
+  
+  .main-title img {
+    display: block;
+    margin: 250px auto 0 auto;
+  }
